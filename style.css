@@ -1,0 +1,67 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+h1 {
+    text-align: center;
+    background-color: #FCFBFA;
+    font-family: 'Sacramento', cursiva;
+    font-size: 30px;
+    color: #F00F45;
+    padding: 9px;
+}
+
+body {
+    background-color: #F5F5F5;
+}
+
+
+.primeira-sessão {
+    margin: 10%;
+}
+h2 {
+    color: #F00F45;
+    font-family: 'Inconsolata', monoespaçado;;
+    font-size: 200%;
+}
+.inicio {
+    color: #1A1818;
+    font-family: 'Inconsolata', monoespaçado;;
+    font-size: 150%;
+}
+#nome-um {
+    color: #1A1818;
+    font-family: 'Inconsolata', monoespaçado;;
+    font-size: small;
+}
+h3 {
+    font-family: 'Inconsolata', monoespaçado;;
+    color: #F00F45;
+    font-size: 150%;
+}
+.tcc {
+    font-family: 'Inconsolata', monoespaçado;;
+    font-size: medium;
+}
+#botão-um {
+    padding: 2%;
+    margin: 0.25%;
+    background-color: #F00F45;
+    color: #FCFBFA;
+}
+.segunda-sessão {
+    margin: 10%;
+    font-family: 'Inconsolata', monoespaçado;;
+}
+#nome-dois {
+    font-size: small;
+}
+#botão-dois {
+    background-color: #F00F45;
+    color: #FCFBFA;
+}
+h5 {
+    font-size: 200%;
+    color: #F00F45;
+}
